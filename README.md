@@ -47,3 +47,7 @@ individual i is selected as parent P<sub>1</sub> is  $$fitness(i)/\sum_{j=1}^N f
     - Length of the simulation: Code is be able to simulate the 
 evolution of an initial population over any user-provided number of 
 generations.
+
+### Simulation of the evolutionof over 20 generations, assuming alleles are selectively neutral
+![image](https://github.com/tgompper1/population-genetics-evolution/assets/33359970/ba873ecc-b638-49d7-8331-63fcf01e6f92)
+
